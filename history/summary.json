@@ -4,19 +4,20 @@
     "url": "https://lyxnxia.space",
     "icon": "https://icons.duckduckgo.com/ip3/lyxnxia.space.ico",
     "slug": "raw-site",
-    "status": "up",
-    "uptime": "88.04%",
-    "uptimeDay": "61.06%",
-    "uptimeWeek": "88.04%",
-    "uptimeMonth": "88.04%",
-    "uptimeYear": "88.04%",
-    "time": 6455,
-    "timeDay": 10859,
-    "timeWeek": 6455,
-    "timeMonth": 6455,
-    "timeYear": 6455,
+    "status": "down",
+    "uptime": "88.83%",
+    "uptimeDay": "60.71%",
+    "uptimeWeek": "88.83%",
+    "uptimeMonth": "88.83%",
+    "uptimeYear": "88.83%",
+    "time": 8074,
+    "timeDay": 12995,
+    "timeWeek": 8074,
+    "timeMonth": 8074,
+    "timeYear": 8074,
     "dailyMinutesDown": {
-      "2026-11-17": 561
+      "2026-11-17": 561,
+      "2026-11-18": 5
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/proxy.lyxnxia.space.ico",
     "slug": "cf-site",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "92.59%",
+    "uptimeDay": "73.95%",
+    "uptimeWeek": "92.59%",
+    "uptimeMonth": "92.59%",
+    "uptimeYear": "92.59%",
     "time": 3894,
     "timeDay": 2985,
     "timeWeek": 3894,
     "timeMonth": 3894,
     "timeYear": 3894,
     "dailyMinutesDown": {
-      "2026-11-17": 0
+      "2026-11-18": 6,
+      "2026-11-17": 369
     }
   }
 ]
