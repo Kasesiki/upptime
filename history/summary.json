@@ -5,23 +5,24 @@
     "icon": "https://icons.duckduckgo.com/ip3/lyxnxia.space.ico",
     "slug": "raw-site",
     "status": "down",
-    "uptime": "76.29%",
+    "uptime": "74.38%",
     "uptimeDay": "37.84%",
-    "uptimeWeek": "90.48%",
-    "uptimeMonth": "76.29%",
-    "uptimeYear": "76.29%",
-    "time": 6029,
-    "timeDay": 7647,
-    "timeWeek": 5688,
-    "timeMonth": 6029,
-    "timeYear": 6029,
+    "uptimeWeek": "85.56%",
+    "uptimeMonth": "74.38%",
+    "uptimeYear": "74.38%",
+    "time": 5817,
+    "timeDay": 1230,
+    "timeWeek": 5509,
+    "timeMonth": 5817,
+    "timeYear": 5817,
     "dailyMinutesDown": {
       "2026-11-17": 561,
       "2026-11-18": 881,
       "2026-11-20": 738,
       "2026-11-19": 1440,
-      "2026-11-27": 751,
-      "2026-11-26": 208
+      "2026-11-27": 895,
+      "2026-11-26": 208,
+      "2026-11-28": 352
     }
   },
   {
@@ -30,14 +31,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/proxy.lyxnxia.space.ico",
     "slug": "cf-site",
     "status": "down",
-    "uptime": "74.42%",
-    "uptimeDay": "37.86%",
-    "uptimeWeek": "90.53%",
-    "uptimeMonth": "74.42%",
-    "uptimeYear": "74.42%",
+    "uptime": "72.55%",
+    "uptimeDay": "37.85%",
+    "uptimeWeek": "85.61%",
+    "uptimeMonth": "72.55%",
+    "uptimeYear": "72.55%",
     "time": 2945,
     "timeDay": 3413,
-    "timeWeek": 2641,
+    "timeWeek": 2683,
     "timeMonth": 2945,
     "timeYear": 2945,
     "dailyMinutesDown": {
@@ -45,8 +46,9 @@
       "2026-11-19": 1440,
       "2026-11-18": 1440,
       "2026-11-17": 369,
-      "2026-11-27": 751,
-      "2026-11-26": 203
+      "2026-11-27": 895,
+      "2026-11-26": 203,
+      "2026-11-28": 352
     }
   }
 ]
